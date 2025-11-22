@@ -21,7 +21,6 @@ concept_map:
           - "questions/cybersecurity/explain-two-factor-authentication.yml"
           - "questions/cybersecurity/discuss-strong-password-issues.yml"
           - "questions/cybersecurity/explain-firewall-role.yml"
-          - "questions/cybersecurity/explain-what-single-sign-on-is.yml"
 
       - name: "Attack"
         exam_questions:
@@ -32,4 +31,3 @@ concept_map:
           - "questions/cybersecurity/explain-zero-day-exploit.yml"
           - "questions/cybersecurity/explain-spoofing.yml"
           - "questions/cybersecurity/explain-social-engineering.yml"
-          - "questions/cybersecurity/explain-malware-types.yml"
